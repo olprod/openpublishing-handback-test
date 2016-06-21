@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\conceptual\ui-components.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">15272571296910ce6ac4a87ab6406f0f9c22f246</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>na</source>
+          <target state="translated">Na</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Conceptual UI Components</source>
+          <target state="translated">Grundlegende UI-Komponenten</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This page is dedicated to test Conceptual UI Components rendering.</source>
+          <target state="translated">Auf dieser Seite wird verwendet, um grundlegende Benutzeroberflächenkomponenten Rendern zu testen.</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>It refers to the minky mockup design.</source>
+          <target state="translated">Er bezieht sich auf den Entwurf minky Modell.</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Below is the link: http://weareminky.com/share/ms/docs/meta/conceptual-ui-components-preview.html</source>
+          <target state="translated">Im folgenden finden Sie der Link: http://weareminky.com/share/ms/docs/meta/conceptual-ui-components-preview.html</target>         
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>See the markdown for this file <bpt id="p1">[</bpt>in Github<ept id="p1">](https://github.com/Microsoft/Azure-RMSDocs-pr/blob/master/Azure-RMSDocs/scratch.md)</ept>; see the markdown reference in <bpt id="p2">[</bpt>the EM Pilot style guide<ept id="p2">](https://worldready.cloudapp.net/Styleguide/Edit?id=2781&amp;topicid=36931)</ept>.</source>
+          <target state="translated">Finden Sie unter den Abzug für diese Datei <bpt id="p1">[</bpt>in Github<ept id="p1">](https://github.com/Microsoft/Azure-RMSDocs-pr/blob/master/Azure-RMSDocs/scratch.md)</ept>; Siehe Abzug <bpt id="p2">[</bpt>Stilvorgaben des Pilotprojekts EM<ept id="p2">](https://worldready.cloudapp.net/Styleguide/Edit?id=2781&amp;topicid=36931)</ept>.</target>         
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>second level heading</source>
+          <target state="translated">Überschrift der zweiten Ebene</target>         
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Third level heading</source>
+          <target state="translated">Überschrift der dritten Ebene</target>         
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Fourth level heading</source>
+          <target state="translated">Überschrift der vierten Ebene</target>         
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Fifth level heading</source>
+          <target state="translated">Überschrift der fünften Ebene</target>         
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Sixth level heading</source>
+          <target state="translated">Überschrift der sechsten Ebene</target>         
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Text styling</source>
+          <target state="translated">Textstil</target>         
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Bold</source>
+          <target state="translated">Fett</target>         
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>italics</source>
+          <target state="translated">Kursiv</target>         
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>strikethrough</source>
+          <target state="translated">durchgestrichen</target>         
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Links</source>
+          <target state="translated">Links</target>         
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>link to markdown file in same repo<ept id="p1">](./small.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>link to external website<ept id="p2">](https://azure.microsoft.com)</ept> Bare URLS become clickable: http://www.github.com/</source>
+          <target state="translated"><bpt id="p1">[</bpt>Link zu Markdown-Datei in dasselbe Repository<ept id="p1">](./small.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Link zur externen Website<ept id="p2">](https://azure.microsoft.com)</ept> Bare URLS werden durch Klicken aktivierbaren: http://www.github.com/</target>         
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Lists</source>
+          <target state="translated">Listen</target>         
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>This</source>
+          <target state="translated">Dies</target>         
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>is</source>
+          <target state="translated">auf</target>         
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>a</source>
+          <target state="translated">a</target>         
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>bulleted</source>
+          <target state="translated">Aufzählung</target>         
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="translated">Liste</target>         
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This</source>
+          <target state="translated">Dies</target>         
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>is</source>
+          <target state="translated">auf</target>         
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>a</source>
+          <target state="translated">a</target>         
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>numbered</source>
+          <target state="translated">nummerierte</target>         
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="translated">Liste</target>         
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Lists</source>
+          <target state="translated">Listen</target>         
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>embedded</source>
+          <target state="translated">eingebettet</target>         
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>embedded</source>
+          <target state="translated">eingebettet</target>         
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>numbered</source>
+          <target state="translated">nummerierte</target>         
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="translated">Liste</target>         
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>into</source>
+          <target state="translated">in</target>         
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>other</source>
+          <target state="translated">andere</target>         
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>embedded</source>
+          <target state="translated">eingebettet</target>         
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>bulleted</source>
+          <target state="translated">Aufzählung</target>         
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="translated">Liste</target>         
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="translated">Liste</target>         
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Checklists ??</source>
+          <target state="translated">Prüflisten.</target>         
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Is this a real thing?</source>
+          <target state="translated">Handelt es sich um eine praktische?</target>         
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>[x] This is GFM but does it work on docs.ms</source>
+          <target state="translated">[X] dies GFM, aber es auf docs.ms</target>         
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>[x] list syntax required (any unordered or ordered list supported)</source>
+          <target state="translated">[X] Liste Syntax erforderlich (ungeordnete oder eine geordnete Liste unterstützt)</target>         
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>[x] this is a complete item</source>
+          <target state="translated">[X] Dies ist ein Element</target>         
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>[ ] this is an incomplete item</source>
+          <target state="translated">[] Dies ist ein unvollständiges Element</target>         
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Horizontal rule</source>
+          <target state="translated">Horizontale Trennlinie</target>         
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <target state="translated">Tabelle</target>         
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Tables</source>
+          <target state="translated">Tabellen</target>         
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Are</source>
+          <target state="translated">Sind</target>         
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Cool</source>
+          <target state="translated">Cool</target>         
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>col 3 is</source>
+          <target state="translated">ist SP 3</target>         
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>right-aligned</source>
+          <target state="translated">Rechtsbündig</target>         
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>$1600</source>
+          <target state="translated">$1600</target>         
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>col 2 is</source>
+          <target state="translated">ist SP 2</target>         
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>centered</source>
+          <target state="translated">Zentriert</target>         
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>$12</source>
+          <target state="translated">$12</target>         
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>zebra stripes</source>
+          <target state="translated">Zebra Streifen</target>         
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>are neat</source>
+          <target state="translated">praktisch sind</target>         
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>$1</source>
+          <target state="translated">$1</target>         
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Do you head a header row??</source>
+          <target state="translated">Head Sie eine Kopfzeile.</target>         
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>| Do you      | really need | | to have a      | header row??</source>
+          <target state="translated">| Möchten Sie | wirklich benötigen || Damit eine | Kopfzeile.</target>         
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>|</source>
+          <target state="translated">|</target>         
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Code</target>         
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Codeblock</source>
+          <target state="translated">Codeblock</target>         
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>In-line code</source>
+          <target state="translated">Inline-code</target>         
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>This is an example of <ph id="ph1">`in-line code`</ph>.</source>
+          <target state="translated">Dies ist ein Beispiel für <ph id="ph1">`in-line code`</ph>.</target>         
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Blockquote</source>
+          <target state="translated">BLOCKQUOTE</target>         
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended.</source>
+          <target state="translated">Die Trockenheit mussten nun zehn Millionen Jahre dauerte, und die Ringen von der schockierend Lizards hatte längst beendet.</target>         
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight.</source>
+          <target state="translated">Hier auf den Äquator, in dem Kontinent einen Tag als bezeichnete Afrika werden würde der Schlacht um Vorhandensein hat erreicht eine neue Climax von Kämpfe, und die Victor wurde noch nicht im Blick.</target>         
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.</source>
+          <target state="translated">In diesem Land grobe und verdorrt ist konnte nur kleine oder die Swift der harter Schnörkel oder sogar hoffen überstehen.</target>         
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Images</source>
+          <target state="translated">Abbilder</target>         
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Static Image</source>
+          <target state="translated">Statisches Bild</target>         
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>this is the alt text</source>
+          <target state="translated">Dies ist der Alt-text</target>         
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Linked Image</source>
+          <target state="translated">Verknüpfte Bild</target>         
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>lt text for linked image]</source>
+          <target state="translated">Lt-Text für verknüpfte Bild]</target>         
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Alerts</source>
+          <target state="translated">Warnungen</target>         
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!NOTE]</ph> This is NOTE</source>
+          <target state="translated"><ph id="ph1">[!NOTE]</ph> Dies ist zu beachten</target>         
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!WARNING]</ph> This is WARNING</source>
+          <target state="translated"><ph id="ph1">[!WARNING]</ph> Diese Warnung ist</target>         
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!TIP]</ph> This is TIP</source>
+          <target state="translated"><ph id="ph1">[!TIP]</ph> Dies ist die QUICKINFO</target>         
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!IMPORTANT]</ph> This is IMPORTANT</source>
+          <target state="translated"><ph id="ph1">[!IMPORTANT]</ph> Dies ist wichtig</target>         
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Videos</source>
+          <target state="translated">Videos</target>         
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Youtube</source>
+          <target state="translated">YouTube</target>         
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Azure Videos</source>
+          <target state="translated">Videos zu Azure</target>         
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>docs.ms extentions</source>
+          <target state="translated">docs.ms extentions</target>         
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Button</source>
+          <target state="translated">Schaltfläche</target>         
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>[!div class="button"] <bpt id="p1">[</bpt>button links<ept id="p1">](./index.md)</ept></source>
+          <target state="translated">[! Div-Klasse = "button"] <bpt id="p1">[</bpt>Schaltflächenlinks<ept id="p1">](./index.md)</ept></target>         
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Selectors</source>
+          <target state="translated">Selektoren</target>         
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Use a Switch to let the user select one of two options, or even a permutation of options.</source>
+          <target state="translated">Verwenden Sie einen Switch ermöglichen den Benutzer eine der beiden Optionen oder sogar eine Variation der Optionen auswählen.</target>         
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Below is single selector:</source>
+          <target state="translated">Im folgenden sehen Sie Einzelauswahl:</target>         
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>[!div class="op_single_selector"]</source>
+          <target state="translated">[! Div-Klasse "Op_single_selector" =]</target>         
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>ATA Deployment Guide</source>
+          <target state="translated">ATA-Bereitstellungshandbuch</target>         
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Install ATA</source>
+          <target state="translated">ATA installieren</target>         
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Below is multi selector:</source>
+          <target state="translated">Im folgenden sehen Sie mehrere Auswahlzeiger:</target>         
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>[!div class="op_multi_selector" title1="Platform" title2="Backend"]</source>
+          <target state="translated">[! Div-Klasse = 1 "Op_multi_selector" = "Platform" Titel2 = "Back-End"]</target>         
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>(iOS | .NET)</source>
+          <target state="translated">(iOS | .NET)</target>         
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>(iOS | JavaScript)</source>
+          <target state="translated">(iOS | JavaScript)</target>         
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Step-by-step</source>
+          <target state="translated">Schritt für Schritt</target>         
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>For step-by-step tutorials, you may optionally include the step-by-step UI component at the bottom of the article.</source>
+          <target state="translated">Schrittweise Lernprogramme können Sie optional die schrittweise Benutzeroberflächenkomponente am unteren Rand der Artikel einschließen.</target>         
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>[!div class="step-by-step"]</source>
+          <target state="translated">[! Div-Klasse "schrittweise" =]</target>         
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>prev<ept id="p1">](small.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>next<ept id="p2">](large.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>vorherige<ept id="p1">](small.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Weiter<ept id="p2">](large.md)</ept></target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

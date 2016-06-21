@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\hubpage\index.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">783dbf7e1f919ced12eb8e642d898864c64cf44e</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Microsoft Enterprise Mobility Documentation</source>
+          <target state="translated">Microsoft 企业移动性文档</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Microsoft Enterprise Mobility Documentation</source>
+          <target state="translated">Microsoft 企业移动性文档</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Microsoft&amp;#39;s enterprise mobility services enable organizations to keep their employees productive across apps and devices while ensuring that corporate data is protected</source>
+          <target state="translated">Microsoft &amp; #39; s 企业移动性服务使各类组织需要其员工工作效率应用程序和设备之间同时确保公司数据受到保护</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>New to enterprise mobility?</source>
+          <target state="translated">企业移动性的新增内容？</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Visit the enterprise mobility page</source>
+          <target state="translated">请访问企业移动性页上</target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

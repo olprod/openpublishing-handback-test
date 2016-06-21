@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\conceptual\large.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5a119a35f42c98afcd101d98424cf5da08a81ed4</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>na</source>
+          <target state="translated">na</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Install ATA</source>
+          <target state="translated">安装 ATA</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The following are the steps required to get ATA deployed, configured, and running.</source>
+          <target state="translated">若要获取 ATA 部署、 配置，并且正在运行所需的步骤如下。</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To configure ATA, follow these steps:</source>
+          <target state="translated">若要配置 ATA，请按照下列步骤 ︰</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Preinstallation steps</source>
+          <target state="translated">预安装步骤</target>         
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Step 1.</source>
+          <target state="translated">步骤 1。</target>         
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Download and Install the ATA Center</source>
+          <target state="translated">下载并安装 ATA 中心</target>         
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Step 3.</source>
+          <target state="translated">步骤 3。</target>         
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Configure ATA Gateway Domain Connectivity Settings</source>
+          <target state="translated">配置 ATA 网关域的连接设置</target>         
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Step 4.</source>
+          <target state="translated">步骤 4。</target>         
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Download the ATA Gateway Setup Package</source>
+          <target state="translated">下载 ATA 网关安装包</target>         
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Step 5.</source>
+          <target state="translated">第 5 步。</target>         
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>ATA Gateway installation</source>
+          <target state="translated">ATA 网关安装</target>         
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Step 6.</source>
+          <target state="translated">步骤 6。</target>         
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Configure the ATA Gateway settings</source>
+          <target state="translated">配置 ATA 网关设置</target>         
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Step 7.</source>
+          <target state="translated">步骤 7。</target>         
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Configure VPN Subnets and Honeytoken user</source>
+          <target state="translated">配置 VPN 子网和蜜标的用户</target>         
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Pre-installation steps</source>
+          <target state="translated">安装前步骤</target>         
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>If you installed the ATA public preview version, see <bpt id="p1">[</bpt>ATA Release Notes<ept id="p1">](./small.md)</ept> for help uninstalling the ATA Preview version.</source>
+          <target state="translated">如果您安装 ATA 公共预览版本，请参阅 <bpt id="p1">[</bpt>ATA 发行说明<ept id="p1">](./small.md)</ept> 有关卸载 ATA 预览版本的帮助。</target>         
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Install KB2934520 on the ATA Center server and on the ATA Gateway servers before beginning installation, otherwise the ATA installation will install this update and will require a restart in the middle of the ATA installation.</source>
+          <target state="translated">ATA 中心服务器上安装 KB2934520 并在开始安装前 ATA 网关服务器上，否则为 ATA 安装将安装此更新需要中间 ATA 安装重新启动。</target>         
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Step 1.</source>
+          <target state="translated">步骤 1。</target>         
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Download and Install the ATA Center</source>
+          <target state="translated">下载并安装 ATA 中心</target>         
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>After you have verified that the server meets the requirements, you can proceed with the installation of the ATA Center.</source>
+          <target state="translated">验证服务器满足要求后，您可以继续进行 ATA 中心安装。</target>         
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Perform the following steps on the ATA Center server.</source>
+          <target state="translated">ATA 中心服务器上执行以下步骤。</target>         
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Download ATA from the <bpt id="p1">[</bpt>TechNet Evaluation Center<ept id="p1">](http://www.microsoft.com/en-us/evalcenter/)</ept>.</source>
+          <target state="translated">下载从 ATA <bpt id="p1">[</bpt>TechNet 评估中心<ept id="p1">](http://www.microsoft.com/en-us/evalcenter/)</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Log in with a user who is a member of the local administrators group.</source>
+          <target state="translated">登录的用户是本地管理员组的成员。</target>         
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>From an elevated command prompt, run Microsoft ATA Center Setup.EXE and follow the setup wizard.</source>
+          <target state="translated">从提升的命令提示符处，运行 Microsoft ATA 中心 Setup.EXE 并按照安装向导。</target>         
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Welcome<ept id="p1">**</ept> page, select your language and click <bpt id="p2">**</bpt>Next<ept id="p2">**</ept>.</source>
+          <target state="translated">在 <bpt id="p1">**</bpt>欢迎<ept id="p1">**</ept> 页上，选择您的语言，请单击 <bpt id="p2">**</bpt>下一步<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Read the End User License Agreement and if you accept the terms, click <bpt id="p1">**</bpt>Next<ept id="p1">**</ept>.</source>
+          <target state="translated">阅读最终用户许可协议，如果您接受这些条款，请单击 <bpt id="p1">**</bpt>下一步<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Center Configuration<ept id="p1">**</ept> page, enter the following information based on your environment:</source>
+          <target state="translated">在 <bpt id="p1">**</bpt>中心配置<ept id="p1">**</ept> 页上，输入基于您的环境的以下信息 ︰</target>         
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">字段</target>         
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">描述</target>         
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">注释</target>         
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Installation Path</source>
+          <target state="translated">安装路径</target>         
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This is the location where the ATA Center will be installed.</source>
+          <target state="translated">这是将在其中安装 ATA 中心的位置。</target>         
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>By default this is  %programfiles%\Microsoft Advanced Threat Analytics\Center</source>
+          <target state="translated">默认情况下，这是 %programfiles%\Microsoft 高级威胁 Analytics\Center</target>         
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Leave the default value</source>
+          <target state="translated">保留默认值</target>         
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Database Data Path</source>
+          <target state="translated">数据库数据路径</target>         
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>This is the location where the MongoDB database files will be located.</source>
+          <target state="translated">这是 MongoDB 数据库文件将位于的位置。</target>         
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data</source>
+          <target state="translated">默认情况下，这是 %programfiles%\Microsoft 高级威胁 Analytics\Center\MongoDB\bin\data</target>         
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Change the location to a place where you have room to grow based on your sizing.</source>
+          <target state="translated">将位置更改为必须根据您调整大小的增长空间的位置。</target>         
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Note:</source>
+          <target state="translated">注意：</target>         
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>In production environments you should use a drive that has enough space based on capacity planning.</source>
+          <target state="translated">在生产环境中应使用具有足够的空间根据容量规划的驱动器。</target>         
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>For large deployments the database should be on a separate physical disk.</source>
+          <target state="translated">对于大型部署数据库应在单独的物理磁盘上。</target>         
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>ATA Capacity Planning<ept id="p1">](./small.md)</ept> for sizing information.</source>
+          <target state="translated">请参阅 <bpt id="p1">[</bpt>ATA 容量规划<ept id="p1">](./small.md)</ept> 的大小调整的信息。</target>         
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Database Journal Path</source>
+          <target state="translated">数据库日志路径</target>         
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>This is the location where the database journal files will be located.</source>
+          <target state="translated">这是数据库日志文件将位于的位置。</target>         
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data\journal</source>
+          <target state="translated">默认情况下，这是 %programfiles%\Microsoft 高级威胁 Analytics\Center\MongoDB\bin\data\journal</target>         
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>For large deployments, the Database Journal should be on a separate physical disk from the database and the system drive.</source>
+          <target state="translated">对于大型部署，数据库日志应该位于单独的物理磁盘从数据库和系统驱动器上。</target>         
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Change the location to a place where you have room for your Database Journal.</source>
+          <target state="translated">将位置更改为一个位置，必须为您的数据库日志留出空间。</target>         
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>ATA Center Service IP address: Port</source>
+          <target state="translated">ATA 中心服务 IP 地址 ︰ 端口</target>         
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>This is the IP address that the ATA Center service will listen on for communication from the ATA Gateways.</source>
+          <target state="translated">这是 ATA 中心服务将侦听来自 ATA 网关的通信的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Default port:<ept id="p1">**</ept> 443</source>
+          <target state="translated"><bpt id="p1">**</bpt>默认端口 ︰<ept id="p1">**</ept> 443</target>         
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Click the down arrow to select the IP address to be used by the ATA Center service.</source>
+          <target state="translated">单击向下箭头选择 ATA 中心服务要使用的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>The IP address and port of the ATA Center service cannot be the same as the IP address and port of the ATA Console.</source>
+          <target state="translated">IP 地址和端口的 ATA Center 服务不能为相同的 IP 地址和端口 ATA 控制台。</target>         
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Make sure to change the port of the ATA Console.</source>
+          <target state="translated">请务必更改 ATA 控制台的端口。</target>         
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>ATA Center Service SSL Certificate</source>
+          <target state="translated">ATA 中心服务 SSL 证书</target>         
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>This is the certificate that will be used by the ATA Center service.</source>
+          <target state="translated">这是 ATA 中心服务将使用的证书。</target>         
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment.</source>
+          <target state="translated">单击密钥图标以选择安装的证书或在实验室环境中部署时检查自签名的证书。</target>         
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>ATA Console IP address</source>
+          <target state="translated">ATA 控制台的 IP 地址</target>         
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>This is the IP address that will be used by IIS for the ATA Console.</source>
+          <target state="translated">这是为 ATA 控制台将由 IIS 使用的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Click the down arrow to select the IP address used by the ATA Console.</source>
+          <target state="translated">单击向下箭头选择 ATA 控制台所用的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Make a note of this IP address to make it easier to access the ATA Console from the ATA Gateway.</source>
+          <target state="translated"><bpt id="p1">**</bpt>注意 ︰<ept id="p1">**</ept> 记下此 IP 地址来更轻松地从 ATA 网关访问 ATA 控制台。</target>         
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>ATA Console SSL certificate</source>
+          <target state="translated">ATA 控制台 SSL 证书</target>         
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>This is the certificate to be used by IIS.</source>
+          <target state="translated">这是由 IIS 使用的证书。</target>         
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment.</source>
+          <target state="translated">单击密钥图标以选择安装的证书或在实验室环境中部署时检查自签名的证书。</target>         
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Install<ept id="p1">**</ept> to install ATA and its components and create the connection between the ATA Center and the ATA Console.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>安装<ept id="p1">**</ept> 安装 ATA 及其组件并创建 ATA 中心和 ATA 控制台之间的连接。</target>         
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>When the installation completes, click <bpt id="p1">**</bpt>Launch<ept id="p1">**</ept>  to connect to the ATA Console.</source>
+          <target state="translated">安装完成后，单击 <bpt id="p1">**</bpt>启动<ept id="p1">**</ept>  为连接到 ATA 控制台。</target>         
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>The following components are installed and configured during the installation of ATA Center:</source>
+          <target state="translated">安装和 ATA 中心在安装期间配置以下组件 ︰</target>         
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Internet Information Services (IIS)</source>
+          <target state="translated">Internet 信息服务 (IIS)</target>         
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>MongoDB</source>
+          <target state="translated">MongoDB</target>         
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>ATA Center service and ATA Console IIS site</source>
+          <target state="translated">ATA Center 服务和 ATA 控制台 IIS 网站</target>         
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Custom Performance Monitor data collection set</source>
+          <target state="translated">自定义性能监视器数据收集组</target>         
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Self-signed certificates (if selected during the installation)</source>
+          <target state="translated">自签名的证书 （如果在安装期间选择）</target>         
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>To help in troubleshooting and product enhancement, it is recommended that you install MongoVue and any other MongoDB add-in, or any other third-party tool of your choice.</source>
+          <target state="translated">为了帮助进行故障排除和产品增强功能，建议您安装工具是 MongoVue 和任何其他 MongoDB 外接程序，或您选择的任何其他第三方工具。</target>         
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>MongoVue requires .Net Framework 3.5 to be installed.</source>
+          <target state="translated">工具是 MongoVue 要求.Net Framework 3.5 安装。</target>         
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Validate installation</source>
+          <target state="translated">验证安装</target>         
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Check to see that the Microsoft Advanced Threat Analytics Center service is running.</source>
+          <target state="translated">检查以了解 Microsoft 高级威胁分析中心服务正在运行。</target>         
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>On the desktop click the Microsoft Advanced Threat Analytics shortcut to connect to the ATA Console.</source>
+          <target state="translated">在桌面上单击 Microsoft 高级威胁分析快捷方式以连接到 ATA 控制台。</target>         
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Log in with the same user credentials that you used to install the ATA Center.</source>
+          <target state="translated">登录相同的用户凭据用来安装 ATA 中心。</target>         
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>The first time you log into the ATA Console you will be brought automatically to the <bpt id="p1">**</bpt>Domain connectivity settings<ept id="p1">**</ept> page to continue the configuration and the deployment of the ATA Gateways.</source>
+          <target state="translated">第一次登录到您将会自动向返回 ATA 控制台 <bpt id="p1">**</bpt>域连接设置<ept id="p1">**</ept> 页后，可以继续配置和部署的 ATA 网关。</target>         
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Review the error file in the <bpt id="p1">**</bpt>Microsoft.Tri.Center-Errors.log<ept id="p1">**</ept> file which can be found in the following default location: %programfiles%\Microsoft Advanced Threat Analytics\Center\Logs.</source>
+          <target state="translated">查看中的错误文件 <bpt id="p1">**</bpt>Microsoft.Tri.Center Errors.log<ept id="p1">**</ept> 文件，可以在以下默认位置中找到 ︰ %programfiles%\Microsoft 高级威胁 Analytics\Center\Logs。</target>         
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Step 2.</source>
+          <target state="translated">步骤 2。</target>         
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>Configure ATA Gateway domain connectivity settings</source>
+          <target state="translated">配置 ATA 网关域的连接设置</target>         
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>The settings in the domain connectivity settings section apply to all ATA Gateways managed by the ATA Center.</source>
+          <target state="translated">在域连接设置部分中的设置适用于所有 ATA 网关管理的数据中心。</target>         
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>To configure the Domain connectivity settings perform the following on the ATA Center server.</source>
+          <target state="translated">若要将域配置为连接设置 ATA 中心服务器上执行以下步骤。</target>         
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Open the ATA Console and log in.</source>
+          <target state="translated">打开 ATA 控制台并以用户身份登录。</target>         
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>For instructions see <bpt id="p1">[</bpt>Working with the ATA Console<ept id="p1">](./small.md)</ept>.</source>
+          <target state="translated">有关说明，请参阅 <bpt id="p1">[</bpt>使用 ATA 控制台<ept id="p1">](./small.md)</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>The first time you log into the ATA Console after the ATA Center has been installed, you will automatically be taken to the ATA Gateways configuration page.</source>
+          <target state="translated">第一次后 ATA Center 已安装，请登录到 ATA Console 您将自动进入 ATA 网关配置页。</target>         
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>If you need to modify any of the settings afterwards, click the Settings icon and select <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept>.</source>
+          <target state="translated">如果您需要修改任何设置之后，单击设置图标并选择 <bpt id="p1">**</bpt>配置<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Gateways<ept id="p1">**</ept> page, click on <bpt id="p2">**</bpt>Domain connectivity settings<ept id="p2">**</ept>, enter the following information and click <bpt id="p3">**</bpt>Save<ept id="p3">**</ept>.</source>
+          <target state="translated">在 <bpt id="p1">**</bpt>网关<ept id="p1">**</ept> 页上，单击 <bpt id="p2">**</bpt>域连接设置<ept id="p2">**</ept>, ，输入以下信息，请单击 <bpt id="p3">**</bpt>保存<ept id="p3">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">字段</target>         
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">注释</target>         
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Username<ept id="p1">**</ept> (required)</source>
+          <target state="translated"><bpt id="p1">**</bpt>用户名<ept id="p1">**</ept> （必需）</target>         
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Enter the read-only user name, for example: <bpt id="p1">**</bpt>user1<ept id="p1">**</ept>.</source>
+          <target state="translated">输入的只读的用户名，例如 ︰ <bpt id="p1">**</bpt>user1<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Password<ept id="p1">**</ept> (required)</source>
+          <target state="translated"><bpt id="p1">**</bpt>密码<ept id="p1">**</ept> （必需）</target>         
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Enter the password for the read-only user, for example: <bpt id="p1">**</bpt>Pencil1<ept id="p1">**</ept>.</source>
+          <target state="translated">密码为只读的用户输入，例如 ︰ <bpt id="p1">**</bpt>Pencil1<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Make sure this password is correct.</source>
+          <target state="translated"><bpt id="p1">**</bpt>注意 ︰<ept id="p1">**</ept> 请确保该密码是否正确。</target>         
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>If you save the wrong password, the ATA Service will stop running on the ATA Gateway servers.</source>
+          <target state="translated">如果保存了错误的密码，ATA 服务将停止 ATA 网关服务器上运行。</target>         
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Domain<ept id="p1">**</ept> (required)</source>
+          <target state="translated"><bpt id="p1">**</bpt>域<ept id="p1">**</ept> （必需）</target>         
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>Enter the domain for the read-only user, for example, <bpt id="p1">**</bpt>contoso.com<ept id="p1">**</ept>.</source>
+          <target state="translated">例如，对于只读的用户，输入域 <bpt id="p1">**</bpt>contoso.com<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> It is important that you enter the complete FQDN of the domain where the user is located.</source>
+          <target state="translated"><bpt id="p1">**</bpt>注意 ︰<ept id="p1">**</ept> 很重要，输入用户所在的域的完整的 FQDN。</target>         
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>For example, if the user’s account is in domain corp.contoso.com, you need to enter <ph id="ph1">`corp.contoso.com`</ph> not contoso.com</source>
+          <target state="translated">例如，如果用户的帐户是 corp.contoso.com 域中，您需要输入 <ph id="ph1">`corp.contoso.com`</ph> 不 contoso.com</target>         
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Step 3.</source>
+          <target state="translated">步骤 3。</target>         
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>Download the ATA Gateway setup package</source>
+          <target state="translated">下载 ATA 网关安装包</target>         
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>After configuring the domain connectivity settings you can download the ATA Gateway setup package.</source>
+          <target state="translated">在配置域连接设置之后，您可以下载 ATA 网关安装程序包。</target>         
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>To download the ATA Gateway package:</source>
+          <target state="translated">若要下载 ATA 网关数据包 ︰</target>         
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>On the ATA Gateway machine, open a browser and enter the IP address you configured in the ATA Center for the ATA Console.</source>
+          <target state="translated">在 ATA 网关计算机上，打开浏览器并输入为 ATA 控制台的 ATA 中心中配置的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>When the ATA Console opens, click on the settings icon and select <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept>.</source>
+          <target state="translated">当 ATA 控制台打开后时，单击设置图标并选择 <bpt id="p1">**</bpt>配置<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>ATA Gateways<ept id="p1">**</ept> tab, click <bpt id="p2">**</bpt>Download ATA Gateway Setup<ept id="p2">**</ept>.</source>
+          <target state="translated">在 <bpt id="p1">**</bpt>ATA 网关<ept id="p1">**</ept> 选项卡上，单击 <bpt id="p2">**</bpt>下载 ATA 网关安装<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>Save the package locally.</source>
+          <target state="translated">保存包本地。</target>         
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>The zip file includes the following:</source>
+          <target state="translated">Zip 文件包含下列内容 ︰</target>         
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>ATA Gateway installer</source>
+          <target state="translated">ATA 网关安装程序</target>         
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>Configuration setting file with the required information to connect to the ATA Center</source>
+          <target state="translated">具有连接到数据中心所需的信息的配置设置文件</target>         
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Step 4.</source>
+          <target state="translated">步骤 4。</target>         
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>Install the ATA Gateway</source>
+          <target state="translated">安装数据网关</target>         
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>Before installing the ATA Gateway, validate that port mirroring is properly configured and that the ATA Gateway can see traffic to and from the domain controllers.</source>
+          <target state="translated">在安装之前 ATA 网关，来验证正确配置端口镜像和 ATA 网关，可以看到从域控制器之间的流量。</target>         
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>Validate Port Mirroring<ept id="p1">](./small.md)</ept> for more information.</source>
+          <target state="translated">请参阅 <bpt id="p1">[</bpt>验证端口镜像<ept id="p1">](./small.md)</ept> 有关详细信息。</target>         
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Make sure that <bpt id="p1">[</bpt>KB2919355<ept id="p1">](http://support.microsoft.com/kb/2919355/)</ept> has been installed.</source>
+          <target state="translated">请确保 <bpt id="p1">[</bpt>KB2919355<ept id="p1">](http://support.microsoft.com/kb/2919355/)</ept> 是否已安装。</target>         
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>Run the following PowerShell cmdlet to check if the hotfix is installed:</source>
+          <target state="translated">运行下面的 PowerShell cmdlet，以检查是否安装了修补程序 ︰</target>         
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Perform the following steps on the ATA Gateway server.</source>
+          <target state="translated">ATA 网关服务器上执行以下步骤。</target>         
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Extract the files from the zip file.</source>
+          <target state="translated">从 zip 文件中提取文件。</target>         
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>From an elevated command prompt, run Microsoft ATA Gateway Setup.exe and follow the setup wizard.</source>
+          <target state="translated">从提升的命令提示符下，运行 Microsoft ATA 网关 Setup.exe，然后按照安装向导。</target>         
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Welcome<ept id="p1">**</ept> page, select your language and click <bpt id="p2">**</bpt>Next<ept id="p2">**</ept>.</source>
+          <target state="translated">在 <bpt id="p1">**</bpt>欢迎<ept id="p1">**</ept> 页上，选择您的语言，请单击 <bpt id="p2">**</bpt>下一步<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Under  <bpt id="p1">**</bpt>ATA Gateway Configuration<ept id="p1">**</ept>, enter the following information based on your environment:</source>
+          <target state="translated">在下  <bpt id="p1">**</bpt>ATA 网关配置<ept id="p1">**</ept>, ，输入以下信息根据您的环境 ︰</target>         
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">字段</target>         
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">描述</target>         
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">注释</target>         
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>Installation Path</source>
+          <target state="translated">安装路径</target>         
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>This is the location where the ATA Gateway will be installed.</source>
+          <target state="translated">这是 ATA 网关的安装位置。</target>         
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>By default this is  %programfiles%\Microsoft Advanced Threat Analytics\Gateway</source>
+          <target state="translated">默认情况下，这是 %programfiles%\Microsoft 高级威胁 Analytics\Gateway</target>         
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>Leave the default value</source>
+          <target state="translated">保留默认值</target>         
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>ATA Gateway Service SSL certificate</source>
+          <target state="translated">ATA 网关服务 SSL 证书</target>         
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>This is the certificate that will be used by the ATA Gateway.</source>
+          <target state="translated">这是 ATA 网关将使用的证书。</target>         
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>Use a self-signed certificate for lab environments only.</source>
+          <target state="translated">用于实验室环境仅使用自签名的证书。</target>         
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>ATA Gateway Registration</source>
+          <target state="translated">ATA 网关注册</target>         
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>Enter the Username and Password of the ATA administrator.</source>
+          <target state="translated">输入用户名和 ATA 管理员的密码。</target>         
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>For the ATA Gateway to register with the ATA Center, enter the user name and password of the user who installed the ATA Center.</source>
+          <target state="translated">对于 ATA 网关注册 ATA 中心，请输入用户名和密码的用户的安装 ATA 中心。</target>         
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>This user must be a member of one of the following local groups on the ATA Center.</source>
+          <target state="translated">此用户必须是某个 ATA 中心上的以下本地组的成员。</target>         
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>Administrators</source>
+          <target state="translated">管理员</target>         
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>Microsoft Advanced Threat Analytics Administrators</source>
+          <target state="translated">Microsoft 高级威胁分析管理员</target>         
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> These credentials are used only for registration and are not stored in ATA.</source>
+          <target state="translated"><bpt id="p1">**</bpt>注意 ︰<ept id="p1">**</ept> 这些凭据仅用于注册并且不会存储在 ATA。</target>         
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>The following components are installed and configured during the installation of the ATA Gateway:</source>
+          <target state="translated">安装和 ATA 网关在安装期间配置以下组件 ︰</target>         
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>KB 3047154</source>
+          <target state="translated">KB 3047154</target>         
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>Do not install KB 3047154 on a virtualization host.</source>
+          <target state="translated">不要在虚拟化主机上安装 KB 3047154。</target>         
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>This may cause port mirroring to stop working properly.</source>
+          <target state="translated">这可能导致端口镜像无法正常工作。</target>         
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>Do not install Message Analyzer, Wireshark, or other network capture software on the ATA Gateway.</source>
+          <target state="translated">不要在 ATA 网关上安装 Message Analyzer、 Wireshark 或其他网络捕获软件。</target>         
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>If you need to capture network traffic, install and use Microsoft Network Monitor 3.4.</source>
+          <target state="translated">如果您需要捕获网络流量，安装并使用 Microsoft 网络监视器 3.4。</target>         
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>ATA Gateway service</source>
+          <target state="translated">ATA 网关服务</target>         
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Microsoft Visual C++ 2013 Redistributable</source>
+          <target state="translated">Microsoft Visual c + + 2013 可再发行组件</target>         
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>Custom Performance Monitor data collection set</source>
+          <target state="translated">自定义性能监视器数据收集组</target>         
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>After the installation completes, click <bpt id="p1">**</bpt>Launch<ept id="p1">**</ept>  to open your browser and log in to the ATA Console.</source>
+          <target state="translated">安装完成后，单击 <bpt id="p1">**</bpt>启动<ept id="p1">**</ept>  打开您的浏览器并登录到 ATA 控制台中。</target>         
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>Step 5.</source>
+          <target state="translated">第 5 步。</target>         
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>Configure the ATA Gateway settings</source>
+          <target state="translated">配置 ATA 网关设置</target>         
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>After the ATA Gateway was installed, perform the following steps to configure the settings for the ATA Gateway.</source>
+          <target state="translated">安装数据网关后，执行以下步骤以配置 ATA 网关的设置。</target>         
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>On the ATA Gateway machine, in the ATA Console, click on the <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept> and select the <bpt id="p2">**</bpt>ATA Gateways<ept id="p2">**</ept> page.</source>
+          <target state="translated">在 ATA 网关计算机上，在 ATA 控制台中，单击 <bpt id="p1">**</bpt>配置<ept id="p1">**</ept> ，然后选择 <bpt id="p2">**</bpt>ATA 网关<ept id="p2">**</ept> 页。</target>         
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>Enter the following information.</source>
+          <target state="translated">输入以下信息。</target>         
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">字段</target>         
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">描述</target>         
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">注释</target>         
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">描述</target>         
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>Enter a description of the ATA Gateway (optional).</source>
+          <target state="translated">输入 ATA 网关 （可选） 的说明。</target>         
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Domain controllers<ept id="p1">**</ept> (required)</source>
+          <target state="translated"><bpt id="p1">**</bpt>域控制器<ept id="p1">**</ept> （必需）</target>         
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>See below for additional information about the list of controllers.</source>
+          <target state="translated">有关列表的控制器的其他信息，请参阅下文。</target>         
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>Enter the complete FQDN of your domain controller and click the plus sign to add it to the list.</source>
+          <target state="translated">输入你的域控制器的完整的 FQDN，然后单击加号以将其添加到列表。</target>         
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>For example,  <bpt id="p1">**</bpt>dc01.contoso.com<ept id="p1">**</ept></source>
+          <target state="translated">例如，  <bpt id="p1">**</bpt>dc01.contoso.com<ept id="p1">**</ept></target>         
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>The objects in the first domain controller in the list will sync via LDAP queries.</source>
+          <target state="translated">在列表中的第一个域控制器中的对象将同步通过 LDAP 查询。</target>         
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>Depending on the size of the domain, this might take some time.</source>
+          <target state="translated">具体取决于域的大小，这可能需要一些时间。</target>         
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>Note:</source>
+          <target state="translated">注意：</target>         
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>Make sure that the first domain controller is <bpt id="p1">**</bpt>not<ept id="p1">**</ept> read-only.</source>
+          <target state="translated">请确保第一个域控制器是 <bpt id="p1">**</bpt>不<ept id="p1">**</ept> 只读的。</target>         
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>Read only domain controllers should be added only after the initial sync completes.</source>
+          <target state="translated">读取只有只在初始同步完成后，才应该添加控制器的域。</target>         
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Capture Network adapters<ept id="p1">**</ept> (required)</source>
+          <target state="translated"><bpt id="p1">**</bpt>捕获网络适配器<ept id="p1">**</ept> （必需）</target>         
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>Select the network adapters that are connected to the switch that are configured as the destination mirror port to receive the domain controller traffic.</source>
+          <target state="translated">选择的网络适配器连接到交换机配置为目标镜像端口以接收域控制器的通信。</target>         
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>Select the Capture network adapter.</source>
+          <target state="translated">选择捕获网络适配器。</target>         
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Save<ept id="p1">**</ept>.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>保存<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!NOTE]</ph> It will take a few minutes for the ATA Gateway service to start the first time because it builds the cache of the network capture parsers used by the ATA Gateway.</source>
+          <target state="translated"><ph id="ph1">[!NOTE]</ph> 它将需要几分钟 ATA 网关服务来启动第一次，因为它生成的网络的高速缓存 ATA 网关用来捕获分析器。</target>         
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>The following information applies to the servers you enter in the <bpt id="p1">**</bpt>Domain Controllers<ept id="p1">**</ept> list.</source>
+          <target state="translated">以下信息适用于在中输入的服务器 <bpt id="p1">**</bpt>域控制器<ept id="p1">**</ept> 列表。</target>         
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>The first domain controller in the list will be used by the ATA Gateway to sync the objects in the domain via LDAP queries.</source>
+          <target state="translated">在列表中的第一个域控制器将由 ATA 网关，用于同步通过 LDAP 查询域中的对象。</target>         
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>Depending on the size of the domain, this might take some time.</source>
+          <target state="translated">具体取决于域的大小，这可能需要一些时间。</target>         
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>All domain controllers whose traffic is being monitored via port mirroring by the ATA Gateway must be listed in the <bpt id="p1">**</bpt>Domain Controllers<ept id="p1">**</ept> list.</source>
+          <target state="translated">其流量是否正在由 ATA 网关通过端口镜像监视的所有域控制器必须都列在 <bpt id="p1">**</bpt>域控制器<ept id="p1">**</ept> 列表。</target>         
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>If a domain controller is not listed in the <bpt id="p1">**</bpt>Domain Controllers<ept id="p1">**</ept> list, detection of suspicious activities might not function as expected.</source>
+          <target state="translated">如果域控制器未列在 <bpt id="p1">**</bpt>域控制器<ept id="p1">**</ept> 列表中，检测到可疑活动可能无法按预期运行。</target>         
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>Make sure that the first domain controller is <bpt id="p1">**</bpt>not<ept id="p1">**</ept> a read-only domain controller (RODC).</source>
+          <target state="translated">请确保第一个域控制器是 <bpt id="p1">**</bpt>不<ept id="p1">**</ept> 只读域控制器 (RODC)。</target>         
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>Read only domain controllers should be added only after the initial sync completes.</source>
+          <target state="translated">读取只有只在初始同步完成后，才应该添加控制器的域。</target>         
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>At least one domain controller in the list be a global catalog server.</source>
+          <target state="translated">列表中的至少一个域控制器是全局编录服务器。</target>         
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>This will enable ATA to resolve computer and user objects in other domains in the forest.</source>
+          <target state="translated">这将使 ATA 若要解决在林中其他域中的计算机和用户对象。</target>         
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>The configuration changes will be applied to the ATA Gateway on the next scheduled sync between the ATA Gateway and the ATA Center.</source>
+          <target state="translated">配置更改将应用于在下一步计划 ATA 网关和数据中心之间同步 ATA 网关。</target>         
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>Validate installation:</source>
+          <target state="translated">验证安装 ︰</target>         
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>To validate that the ATA Gateway has been successfully deployed, check the following:</source>
+          <target state="translated">要验证已成功部署 ATA 网关，请检查下列方面 ︰</target>         
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>Check that the Microsoft Advanced Threat Analytics Gateway service is running.</source>
+          <target state="translated">检查 Microsoft 高级威胁分析网关服务正在运行。</target>         
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>After you have saved the ATA Gateway settings, it might take a few minutes for the service to start.</source>
+          <target state="translated">在保存 ATA 网关设置后，可能需要几分钟时间以启动该服务。</target>         
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>If the service does not start, review the “Microsoft.Tri.Gateway-Errors.log” file located in the following default folder, “%programfiles%\Microsoft Advanced Threat Analytics\Gateway\Logs”, search for entries with “transfer” or “service start”.</source>
+          <target state="translated">如果该服务未启动，请查看位于以下默认文件夹中的"Microsoft.Tri.Gateway Errors.log"文件"%programfiles%\Microsoft 高级威胁 Analytics\Gateway\Logs"，搜索与"传输"或"服务启动"的条目。</target>         
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>Check the following Microsoft ATA Gateway performance counters:</source>
+          <target state="translated">检查下列 Microsoft ATA 网关的性能计数器 ︰</target>         
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>NetworkListener Captured Messages / sec<ept id="p1">**</ept>: This counter tracks how many messages are being captured by the ATA per second.</source>
+          <target state="translated"><bpt id="p1">**</bpt>NetworkListener 捕获消息 / 秒<ept id="p1">**</ept>︰ 此计数器可跟踪每秒 ATA 正在捕获的消息数。</target>         
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>The value should be mid hundreds to thousands depending on the number of domain controllers being monitored and how busy each domain controller is.</source>
+          <target state="translated">此值应 mid 数百到数千具体取决于被监视的域控制器的数量和每个域控制器有多忙。</target>         
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>Single or double digit values can indicate an issue with the port mirroring configuration.</source>
+          <target state="translated">单引号或双引号的数字值与镜像配置的端口表明存在问题。</target>         
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>EntityTransfer Activity Transfers/Sec<ept id="p1">**</ept>: This value should be in the range of a few hundred every few seconds.</source>
+          <target state="translated"><bpt id="p1">**</bpt>EntityTransfer 活动传输次数/秒<ept id="p1">**</ept>︰ 此值应为范围内的几百每隔几秒。</target>         
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>If this is the first ATA Gateway installed, after a few minutes, log into the ATA Console and open the notification pane by swiping the right side of the screen open.</source>
+          <target state="translated">如果这是安装的第一个 ATA 网关，几分钟后登录到 ATA 控制台，并通过轻扫右侧的打开屏幕打开通知窗格。</target>         
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>You should see a list of <bpt id="p1">**</bpt>Entities Recently Learned<ept id="p1">**</ept> in the notification bar on the right side of the console.</source>
+          <target state="translated">您应看到一份 <bpt id="p1">**</bpt>实体最近学习了<ept id="p1">**</ept> 控制台右侧的通知栏中。</target>         
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>To validate that the installation completed successfully:</source>
+          <target state="translated">若要验证安装成功完成 ︰</target>         
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>In the console, search for something in the search bar, such as a user or a group on your domain.</source>
+          <target state="translated">在控制台中，搜索的搜索栏，例如，用户或组在您的域中的某些内容。</target>         
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>Open Performance Monitor.</source>
+          <target state="translated">打开性能监视器。</target>         
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>In the Performance tree, click on <bpt id="p1">**</bpt>Performance Monitor<ept id="p1">**</ept> and then click the plus icon to <bpt id="p2">**</bpt>Add a Counter<ept id="p2">**</ept>.</source>
+          <target state="translated">在性能树中，单击 <bpt id="p1">**</bpt>性能监视器<ept id="p1">**</ept> ，然后单击加号图标到 <bpt id="p2">**</bpt>添加计数器<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>Expand <bpt id="p1">**</bpt>Microsoft ATA Gateway<ept id="p1">**</ept> and scroll down to <bpt id="p2">**</bpt>Network Listener Captured Messages per Second<ept id="p2">**</ept> and add it.</source>
+          <target state="translated">展开 <bpt id="p1">**</bpt>Microsoft ATA 网关<ept id="p1">**</ept> 和向下滚动到 <bpt id="p2">**</bpt>每秒的网络侦听器捕获消息<ept id="p2">**</ept> 并将其添加。</target>         
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>Then, make sure you see activity on the graph.</source>
+          <target state="translated">然后，确保关系图上查看活动。</target>         
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>Step 6.</source>
+          <target state="translated">步骤 6。</target>         
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>Configure short-term lease subnets and Honeytoken user</source>
+          <target state="translated">配置短期租约子网和蜜标用户</target>         
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>Short-term lease subnets are subnets in which the IP address assignment changes very rapidly - within seconds or minutes.</source>
+          <target state="translated">短期租约子网是子网中 IP 地址分配发生迅速更改-秒或几分钟内。</target>         
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>For example, IP addresses used for your VPNs and Wi-Fi IP addresses.</source>
+          <target state="translated">例如，IP 地址用于您的 Vpn 和 Wi-fi IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>To enter the list of short-term lease subnets used in your organization, follow these steps:</source>
+          <target state="translated">若要输入您的组织中使用的短期租约子网的列表，请按照下列步骤 ︰</target>         
+        </trans-unit>
+        <trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>From the ATA Console on the ATA Gateway machine, click on the settings icon and select <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept>.</source>
+          <target state="translated">从 ATA 网关计算机上的 ATA 控制台中，单击设置图标并选择 <bpt id="p1">**</bpt>配置<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>Under <bpt id="p1">**</bpt>Detection<ept id="p1">**</ept>, enter the following for short-term lease subnets.</source>
+          <target state="translated">在下 <bpt id="p1">**</bpt>检测<ept id="p1">**</ept>, ，输入以下内容的短期租约子网。</target>         
+        </trans-unit>
+        <trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>Enter the short-term lease subnets using slash notation format, for example:  <ph id="ph1">`192.168.0.0/24`</ph> and click the plus sign.</source>
+          <target state="translated">输入短期租约使用子网斜线记数法格式，例如 ︰  <ph id="ph1">`192.168.0.0/24`</ph> ，然后单击加号。</target>         
+        </trans-unit>
+        <trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>For the Honeytoken account SIDs, enter the SID for the user account that will have no network activity, and click the plus sign.</source>
+          <target state="translated">蜜标帐户 Sid，请输入中将没有网络活动，然后单击加号可对用户帐户的 SID。</target>         
+        </trans-unit>
+        <trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>For example: <ph id="ph1">`S-1-5-21-72081277-1610778489-2625714895-10511`</ph>.</source>
+          <target state="translated">例如：<ph id="ph1">`S-1-5-21-72081277-1610778489-2625714895-10511`</ph>。</target>         
+        </trans-unit>
+        <trans-unit id="315" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!NOTE]</ph> To find the SID for a user, run the following Windows PowerShell cmdlet <ph id="ph2">`Get-ADUser UserName`</ph>.</source>
+          <target state="translated"><ph id="ph1">[!NOTE]</ph> 若要查找用户的 SID，请运行以下 Windows PowerShell cmdlet <ph id="ph2">`Get-ADUser UserName`</ph>。</target>         
+        </trans-unit>
+        <trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>Configure exclusions: You can configure IP addresses to be excluded from specific suspicious activities.</source>
+          <target state="translated">配置排除项 ︰ 您可以配置要从特定的可疑活动中排除的 IP 地址。</target>         
+        </trans-unit>
+        <trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>Working with ATA Detection Settings<ept id="p1">](./small.md)</ept> for more information.</source>
+          <target state="translated">请参阅 <bpt id="p1">[</bpt>使用 ATA 检测设置<ept id="p1">](./small.md)</ept> 有关详细信息。</target>         
+        </trans-unit>
+        <trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Save<ept id="p1">**</ept>.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>保存<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>Congratulations, you have successfully deployed Microsoft Advanced Threat Analytics!</source>
+          <target state="translated">祝贺您，您已成功部署 Microsoft 高级威胁分析 ！</target>         
+        </trans-unit>
+        <trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>Check the attack time line to view detected suspicious activities and search for users or computers and view their profiles.</source>
+          <target state="translated">检查攻击时间线，以查看检测到可疑活动和搜索用户或计算机以及查看他们的配置文件。</target>         
+        </trans-unit>
+        <trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>Remember that it takes a minimum of three weeks for ATA to build behavioral profiles, so during the first three weeks you will not see any  suspicious behavior activities.</source>
+          <target state="translated">请记住，它采用对于 ATA 来建立行为的配置文件，以便在第一个三周期间您将看不到任何可疑行为的活动的第三周最少。</target>         
+        </trans-unit>
+        <trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">另请参阅</target>         
+        </trans-unit>
+        <trans-unit id="323" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>For support, check out our forum!<ept id="p1">](https://social.technet.microsoft.com/Forums/security/en-US/home?forum=mata)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Configure Event Collection<ept id="p2">](./small.md)</ept><ph id="ph2">
+</ph><bpt id="p3">[</bpt>ATA Prerequisites<ept id="p3">](./small.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>有关支持，请查看我们的论坛 ！<ept id="p1">](https://social.technet.microsoft.com/Forums/security/en-US/home?forum=mata)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>配置事件收集<ept id="p2">](./small.md)</ept><ph id="ph2">
+</ph><bpt id="p3">[</bpt>ATA 系统必备组件<ept id="p3">](./small.md)</ept></target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

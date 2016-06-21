@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\abtesting\users-manual-content.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a7b976f1feb12a9d41d2a4c86bbbc7e3483436a</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>User's Manual - Content Level A/B Testing</source>
+          <target state="translated">用户手册的内容级别 A / B 测试</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Prerequisite</source>
+          <target state="translated">先决条件</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Please follow the step <bpt id="p1">[</bpt>How to Join the Microsoft GitHub Organization<ept id="p1">](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service)</ept> to link your GitHub account with Microsoft organization.</source>
+          <target state="translated">请按照步骤 <bpt id="p1">[</bpt>如何加入 Microsoft GitHub 组织<ept id="p1">](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service)</ept> 以链接 Microsoft 组织您的 GitHub 帐户。</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Read the CSI instruction to understand the process how to <bpt id="p1">**</bpt>CREATE<ept id="p1">**</ept><ph id="ph1"> / </ph><bpt id="p2">**</bpt>EDIT<ept id="p2">**</ept><ph id="ph2"> /</ph><bpt id="p3">**</bpt>COMMIT<ept id="p3">**</ept> Markdown file to GitHub.</source>
+          <target state="translated">读取 CSI 指令如何了解过程到 <bpt id="p1">**</bpt>创建<ept id="p1">**</ept><ph id="ph1"> / </ph><bpt id="p2">**</bpt>编辑<ept id="p2">**</ept><ph id="ph2"> /</ph><bpt id="p3">**</bpt>提交<ept id="p3">**</ept> Markdown 文件到 GitHub。</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This manual really don't take content creation/revision into consideration.</source>
+          <target state="translated">此手册真的不考虑内容的创建/修订版本。</target>         
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Use <bpt id="p1">**</bpt>working<ept id="p1">**</ept> branch before merge into Live environment which is always a <bpt id="p2">**</bpt>BEST PRACTISE<ept id="p2">**</ept>.</source>
+          <target state="translated">使用 <bpt id="p1">**</bpt>工作<ept id="p1">**</ept> 分支合并到实时环境，这始终是前的 <bpt id="p2">**</bpt>最佳做法<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Step-by-step</source>
+          <target state="translated">分步</target>         
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Create a new experiment</source>
+          <target state="translated">创建新试验</target>         
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Part I: Set up the experimental files in your working branch.</source>
+          <target state="translated">第一部分 ︰ 工作分支中的实验性文件设置。</target>         
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The A/B test requires two separate markdown files, the A variant, and the B variant.</source>
+          <target state="translated">A / B 测试需要两个单独 markdown 文件、 A 变体和 B 变体。</target>         
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You may already have an A variant as an existing published page.</source>
+          <target state="translated">为现有的已发布页，可能已有一个变体。</target>         
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Switch to your <bpt id="p1">**</bpt>working<ept id="p1">**</ept> branch:</source>
+          <target state="translated">切换到您 <bpt id="p1">**</bpt>工作<ept id="p1">**</ept> 分支 ︰</target>         
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>If you are working locally, switch to your local staging branch.</source>
+          <target state="translated">如果在本地使用，切换到您本地临时分支。</target>         
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The staging branch is whichever branch you use to commit changes that will be published to <bpt id="p1">[</bpt>stage endpoint<ept id="p1">](https://stage.docs.microsoft.com)</ept>.</source>
+          <target state="translated">临时分支都是用于提交的更改将被发布到任何一个分支 <bpt id="p1">[</bpt>阶段终结点<ept id="p1">](https://stage.docs.microsoft.com)</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Edit Variant A Page:</source>
+          <target state="translated">编辑变体页 ︰</target>         
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Edit your source file (Page A) by adding the following metadata::</source>
+          <target state="translated">通过添加以下元数据中编辑您的源文件 (页 A)::</target>         
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">`experiment:true`
+`experiment_id:`</ph>,</source>
+          <target state="translated"><ph id="ph1">`experiment:true`
+`experiment_id:`</ph>,</target>         
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>is the unique id for your experiment.</source>
+          <target state="translated">是试验的唯一 id。</target>         
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>We recommend that your experiment id be of the form <ph id="ph1">&amp;lt;</ph>youralias<ph id="ph2">&amp;gt;-&amp;lt;</ph>experimentname<ph id="ph3">&amp;gt;-&amp;lt;</ph>date</source>
+          <target state="translated">我们建议您试验的 id 应该窗体的 <ph id="ph1">&amp;lt;</ph>youralias<ph id="ph2">&amp;gt;-&amp;lt;</ph>experimentname<ph id="ph3">&amp;gt;-&amp;lt;</ph>日期</target>         
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Create Variant B Page:</source>
+          <target state="translated">创建变体 B 页 ︰</target>         
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Create a Variant B page for the topic in the same folder using all of Page A’s original metadata.</source>
+          <target state="translated">使用所有页 A 的原始元数据的同一文件夹中创建变体 B 页主题。</target>         
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Add the <ph id="ph1">`experiment_id`</ph> field and use the same experiment ID you created for the A variant.</source>
+          <target state="translated">添加 <ph id="ph1">`experiment_id`</ph> 字段并使用您创建相同的试验 ID 为 A 变体。</target>         
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Use the following file name structure when you save the Variant B page: <ph id="ph1">&amp;lt;</ph>sourcefilename<ph id="ph2">&amp;gt;`.experimental.md`</ph>.</source>
+          <target state="translated">保存 Variant B 页时使用以下文件名称结构 ︰ <ph id="ph1">&amp;lt;</ph>sourcefilename<ph id="ph2">&amp;gt;`.experimental.md`</ph>。</target>         
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>For example:</source>
+          <target state="translated">例如：</target>         
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>If A Variant is CSI-demo.md, then B Variant should be CSI-demo.experimental.md</source>
+          <target state="translated">如果变体为 CSI demo.md，然后 B variant 类型的值应为 CSI demo.experimental.md</target>         
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Add and commit your changes:</source>
+          <target state="translated">添加并提交所做的更改 ︰</target>         
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>If you are working locally, you will have to merge these local changes with the staging branch on GitHub with a pull request.</source>
+          <target state="translated">如果在本地使用，必须将这些本地更改拉取请求与在 GitHub 上的临时分支与合并。</target>         
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you are working on GitHub, simply commit the changes.</source>
+          <target state="translated">如果您正在 GitHub 上，只需提交所做的更改。</target>         
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Once the files are committed to the staging branch on GitHub,  it will automatically trigger the OP build for the staging branch.</source>
+          <target state="translated">文件提交到 GitHub 上的临时分支之后，它将自动触发过渡分支的操作生成。</target>         
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Preview the result from portal:</source>
+          <target state="translated">预览门户的结果 ︰</target>         
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Open OP Portal, wait until the build is completed without error message.</source>
+          <target state="translated">打开操作门户网站，请等待，直到完成生成时没有错误消息。</target>         
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Open stage site and preview the result.</source>
+          <target state="translated">打开阶段站点并预览结果。</target>         
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Merge your Variant A and Variant B to Live branch</source>
+          <target state="translated">合并到活动分支的变体 A 和变体 B</target>         
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Once you’ve confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the <bpt id="p1">**</bpt>Live<ept id="p1">**</ept> branch for publication to the production site.</source>
+          <target state="translated">一旦您已确认 A 和 B 的变体是在暂存服务器上可用，合并您的变体 A 和 B variant 类型的值发送到 <bpt id="p1">**</bpt>Live<ept id="p1">**</ept> 分支发布到生产站点。</target>         
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Part II: Create an Experiment on A/B Testing Configuration Portal.</source>
+          <target state="translated">第二部分 ︰ 创建试验在 A / B 测试配置门户。</target>         
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Create an experiment:</source>
+          <target state="translated">创建试验 ︰</target>         
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Open <bpt id="p1">[</bpt>A/B Configuration portal<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>, and click <bpt id="p2">**</bpt>ADD EXPERIMENT<ept id="p2">**</ept> to create a new experiment.</source>
+          <target state="translated">打开 <bpt id="p1">[</bpt>A / B 配置门户<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>, ，然后单击 <bpt id="p2">**</bpt>添加试验<ept id="p2">**</ept> 若要创建新试验。</target>         
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Save the experiment.</source>
+          <target state="translated">保存此试验。</target>         
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You will be returned to the experimentation portal front page.</source>
+          <target state="translated">您将返回到试验前在门户页。</target>         
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Preview the result by adding prefix <ph id="ph1">`https://stage.docs.microsoft.com/_chrome/experiment.htm#`</ph> to switch between your Page A and B.</source>
+          <target state="translated">通过添加前缀来预览结果 <ph id="ph1">`https://stage.docs.microsoft.com/_chrome/experiment.htm#`</ph> 页 A 和 B 之间进行切换</target>         
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Setup Metrics:</source>
+          <target state="translated">安装程序度量值 ︰</target>         
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Expand the experiment from <bpt id="p1">[</bpt>A/B Configuration portal<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>.</source>
+          <target state="translated">展开从试验 <bpt id="p1">[</bpt>A / B 配置门户<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>EDIT<ept id="p1">**</ept> from <bpt id="p2">**</bpt>METRIC CONFIG<ept id="p2">**</ept> tab.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>编辑<ept id="p1">**</ept> 从 <bpt id="p2">**</bpt>指标配置<ept id="p2">**</ept> 选项卡。</target>         
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Start the experiment:</source>
+          <target state="translated">开始此试验 ︰</target>         
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Click the <bpt id="p1">**</bpt>START<ept id="p1">**</ept> button to start the experiment.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>启动<ept id="p1">**</ept> 按钮以便开始此试验。</target>         
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Monitor the metric result:</source>
+          <target state="translated">监视度量值的结果 ︰</target>         
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>METRIC RESULT<ept id="p1">**</ept> to show the result.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>指标结果<ept id="p1">**</ept> 以显示结果。</target>         
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>(NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)</source>
+          <target state="translated">(请注意，它将采用有关 4-6 个小时从 WEDCS 由于延迟时间显示结果)</target>         
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Clean up A/B testing once it is completed.</source>
+          <target state="translated">清理 A/B 测试一次完成。</target>         
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Backup the result Export the result from METRIC RESULT to Excel:</source>
+          <target state="translated">备份结果导出到 Excel 指标结果的结果 ︰</target>         
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Open A/B Configuration portal, and select the experiment.</source>
+          <target state="translated">打开 A / B 配置门户中，然后选择此试验。</target>         
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Select the Metric, click <bpt id="p1">**</bpt>METRIC RESULT<ept id="p1">**</ept> tab, and then click <bpt id="p2">**</bpt>EXPORT EXCEL<ept id="p2">**</ept> to export the result.</source>
+          <target state="translated">选择度量值，单击 <bpt id="p1">**</bpt>指标结果<ept id="p1">**</ept> 选项卡上，然后单击 <bpt id="p2">**</bpt>导出 EXCEL<ept id="p2">**</ept> 导出结果。</target>         
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Repeat the <bpt id="p1">**</bpt>EXPORT EXCEL<ept id="p1">**</ept> for all the related metrics.</source>
+          <target state="translated">重复 <bpt id="p1">**</bpt>导出 EXCEL<ept id="p1">**</ept> 的相关度量值。</target>         
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Stop the experiment:</source>
+          <target state="translated">停止此试验 ︰</target>         
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Click the <bpt id="p1">**</bpt>STOP<ept id="p1">**</ept> button to stop the experiment.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>停止<ept id="p1">**</ept> 按钮以停止此试验。</target>         
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Delete the experiment from <bpt id="p1">[</bpt>A/B Configuration portal<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>:</source>
+          <target state="translated">删除从试验 <bpt id="p1">[</bpt>A / B 配置门户<ept id="p1">](https://abtestingportal.azurewebsites.net/#/experiments)</ept>:</target>         
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>DELETE<ept id="p1">**</ept> button to remove the experiment from the list.</source>
+          <target state="translated">单击 <bpt id="p1">**</bpt>删除<ept id="p1">**</ept> 按钮以从列表中删除此试验。</target>         
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Clean up unnecessary Variant version.</source>
+          <target state="translated">清除不必要的变体版本。</target>         
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Once the experiment is finished, you should keep the final version, and delete the unnecessary version from document repo.</source>
+          <target state="translated">完成此实验后，应保留的最终版本，并从文档存储库中删除不必要的版本。</target>         
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>If choose Variant A, delete the Variant B.</source>
+          <target state="translated">如果选择一个变体，请删除 Variant b。</target>         
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>If choose Variant B, copy the content from Variant B to Variant A and delete Variant B.</source>
+          <target state="translated">如果选择 Variant B、 从 Variant B 将内容复制到 variant 类型的值的和删除变量 b。</target>         
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Clean up metadata from Markdown file</source>
+          <target state="translated">清除 Markdown 文件中的元数据</target>         
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Remove <ph id="ph1">`experiment:true`</ph> and <ph id="ph2">`experiment_id`</ph> from final Markdown file</source>
+          <target state="translated">删除 <ph id="ph1">`experiment:true`</ph> 和 <ph id="ph2">`experiment_id`</ph> 从最终 Markdown 文件</target>         
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Commit changes.</source>
+          <target state="translated">提交更改。</target>         
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Other Resources</source>
+          <target state="translated">其他资源</target>         
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Environment: <bpt id="p1">[</bpt>Environments - Content Level<ept id="p1">](http://onenote:#Environments%20-%20Content%20Level&amp;section-id={7011B86A-3C76-4C37-8F41-C26A380ADAEC}&amp;page-id={B1125C68-7C08-49DA-A45C-8ADE3A315520}&amp;end&amp;base-path=https://microsoft.sharepoint.com/teams/Visual_Studio_China/Shared%20Documents/Open%20Publishing/AB%20Testing.)</ept></source>
+          <target state="translated">环境 ︰ <bpt id="p1">[</bpt>环境的内容级别<ept id="p1">](http://onenote:#Environments%20-%20Content%20Level&amp;section-id={7011B86A-3C76-4C37-8F41-C26A380ADAEC}&amp;page-id={B1125C68-7C08-49DA-A45C-8ADE3A315520}&amp;end&amp;base-path=https://microsoft.sharepoint.com/teams/Visual_Studio_China/Shared%20Documents/Open%20Publishing/AB%20Testing.)</ept></target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

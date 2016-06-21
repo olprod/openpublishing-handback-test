@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\restapi\TOC.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Graph API Concepts</source>
+          <target state="translated">Graph-API-Konzepte</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Azure AD Graph API (on Azure.com)</source>
+          <target state="translated">Azure AD Graph-API (auf Azure.com)</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Quickstart for the Graph API (on Azure.com)</source>
+          <target state="translated">Schnellstart für die Graph-API (auf Azure.com)</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Full text search capabilities (preview on Azure AD Graph Team blog)</source>
+          <target state="translated">Volltext-Suchfunktionen (Vorschau auf Azure AD Graph-Teamblog)</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Operations on contacts</source>
+          <target state="translated">Vorgänge für Kontakte</target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

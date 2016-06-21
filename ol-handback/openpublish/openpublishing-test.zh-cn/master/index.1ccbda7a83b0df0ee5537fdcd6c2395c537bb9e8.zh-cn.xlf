@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">openpublishing\test\abtesting\index.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b2156860b4bdd3d03dc41169ae87566d003ea970</xliffext:olfilehash>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-3d52e17" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>A/B Testing</source>
+          <target state="translated">A / B 测试</target>         
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Content Level A/B Testing:<ept id="p1">**</ept> A/B testing on specific documents or resources.</source>
+          <target state="translated"><bpt id="p1">**</bpt>内容级别 A / B 测试 ︰<ept id="p1">**</ept> A / B 测试特定文档或资源。</target>         
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Global A/B Testing:<ept id="p1">**</ept> A/B testing on a wide scope, for example theme and page layout which applies to all articles in a given site (or specific locale).</source>
+          <target state="translated"><bpt id="p1">**</bpt>全局 A / B 测试 ︰<ept id="p1">**</ept> A / B 测试对某个宽的范围，它适用于给定的站点 （或特定区域设置） 中的所有项目的示例主题和页面布局。</target>         
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Content Level A/B Testing</source>
+          <target state="translated">内容级别 A / B 测试</target>         
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Content Level A/B Testing<ept id="p1">*</ept> allows <bpt id="p2">**</bpt>content owners<ept id="p2">**</ept> to self-service, having variants of contents delivered from the same URL, specifying the split ratio and getting the BI statistics.</source>
+          <target state="translated"><bpt id="p1">*</bpt>内容级别 A / B 测试<ept id="p1">*</ept> 允许 <bpt id="p2">**</bpt>内容所有者<ept id="p2">**</ept> 向自助服务遇到传递的同一个 url，指定的拆分比率，并且获得 BI 的统计信息的内容的变体。</target>         
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For example, writers can have <bpt id="p1">**</bpt>hello.md<ept id="p1">**</ept> and <bpt id="p2">**</bpt>hello.experimental.md<ept id="p2">**</ept>, and specify that only 10% of the end users would see the experimental version of the document.</source>
+          <target state="translated">例如，可以编写器 <bpt id="p1">**</bpt>hello.md<ept id="p1">**</ept> 和 <bpt id="p2">**</bpt>hello.experimental.md<ept id="p2">**</ept>, ，并指定只有 10%的最终用户将看到该文档的实验版本。</target>         
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Design Principles:</source>
+          <target state="translated">设计原则 ︰</target>         
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Keep things <bpt id="p1">**</bpt>simpler<ept id="p1">**</ept> if possible, avoid over design - especially piling up features that are not actually used.</source>
+          <target state="translated">请注意事项 <bpt id="p1">**</bpt>更简单<ept id="p1">**</ept> 如果可能，避免通过设计-尤其累积时实际上并没有使用的功能。</target>         
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>All <bpt id="p1">**</bpt>types of contents<ept id="p1">**</ept> should be able to run A/B testing, including markdown files, plain HTML files, images and audio/video files.</source>
+          <target state="translated">所有 <bpt id="p1">**</bpt>类型的内容<ept id="p1">**</ept> 应该能够运行 A / B 测试，包括 markdown 文件、 纯 HTML 文件、 图像和音频/视频文件。</target>         
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The A/B testing <bpt id="p1">**</bpt>granularity<ept id="p1">**</ept> should be flexible, either covering a single document, or a large group of assets (e.g. images).</source>
+          <target state="translated">A / B 测试 <bpt id="p1">**</bpt>粒度<ept id="p1">**</ept> 应非常灵活，可以覆盖单个文档或一支庞大的资产 （例如图像）。</target>         
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Users should be <bpt id="p1">**</bpt>affinitized<ept id="p1">**</ept>, which means once a user was routed to version A, he/she should always see version A document unless the browser session info has been explicitly wiped out (e.g. Ctrl + Shift + Delete or InPrivate Session).</source>
+          <target state="translated">用户应该 <bpt id="p1">**</bpt>关联<ept id="p1">**</ept>, ，这一次意味着用户已路由到一个版本，他/她应始终会看到一个版本文档，除非浏览器会话信息是否已显式擦除出 （例如 Ctrl + Shift + Delete 或 InPrivate 会话）。</target>         
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Should be <bpt id="p1">**</bpt>fast<ept id="p1">**</ept>, creating a new test, turning on/off an A/B testing, or updating the split ratio should take effect in <bpt id="p2">**</bpt>less than 30 seconds<ept id="p2">**</ept>.</source>
+          <target state="translated">应为 <bpt id="p1">**</bpt>快速<ept id="p1">**</ept>, 、 创建新的测试、 打开/关闭 A / B 测试，或更新拆分比例应中生效 <bpt id="p2">**</bpt>小于 30 秒<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Corner cases should be covered properly<ept id="p1">**</ept>, A/B testing should work smoothly in a <bpt id="p2">**</bpt>CDN environment<ept id="p2">**</ept>.</source>
+          <target state="translated"><bpt id="p1">**</bpt>极端情况下应已正确涵盖<ept id="p1">**</ept>, 、 / B 测试应该顺利地在工时 <bpt id="p2">**</bpt>CDN 环境<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Also, special logic should be in place to make sure only the default variant <bpt id="p1">*</bpt>"the A version"<ept id="p1">*</ept> is retrieved by <bpt id="p2">**</bpt>search crawlers<ept id="p2">**</ept> like Google and Bing.</source>
+          <target state="translated">此外，特殊逻辑应准备就绪，可确保只有默认变体 <bpt id="p1">*</bpt>"A 版本"<ept id="p1">*</ept> 通过 <bpt id="p2">**</bpt>搜索爬网程序<ept id="p2">**</ept> ，如 Google 和 Bing。</target>         
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Naturally <bpt id="p1">**</bpt>integrated<ept id="p1">**</ept> into BI and Insights.</source>
+          <target state="translated">自然 <bpt id="p1">**</bpt>集成<ept id="p1">**</ept> 到 BI 和见解。</target>         
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Internal Flow Diagram:</source>
+          <target state="translated">内部流关系图 ︰</target>         
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Global Level A/B Testing</source>
+          <target state="translated">全局级别 A / B 测试</target>         
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Global Level A/B Testing<ept id="p1">*</ept> enables two major scenarios:</source>
+          <target state="translated"><bpt id="p1">*</bpt>全局级别 A / B 测试<ept id="p1">*</ept> 启用两个主要方案 ︰</target>         
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>It allows certain feature hypothesis to be practically verified or proved, typically via a collaboration of <bpt id="p1">**</bpt>the feature stakeholder, feature PM and developers<ept id="p1">**</ept>.</source>
+          <target state="translated">它允许以几乎无法进行验证或证明，通常通过协作的某些功能假设 <bpt id="p1">**</bpt>功能利益干系人、 功能 PM 和开发人员<ept id="p1">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>It allows <bpt id="p1">**</bpt>engineering team<ept id="p1">**</ept> to roll out a feature smoothly.</source>
+          <target state="translated">它允许 <bpt id="p1">**</bpt>工程团队<ept id="p1">**</ept> 顺利地推出一项功能。</target>         
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Design Principles:</source>
+          <target state="translated">设计原则 ︰</target>         
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Keep things <bpt id="p1">**</bpt>simpler<ept id="p1">**</ept> if possible, a single API <ph id="ph1">`Experiment.IsEnabledAsync`</ph> could be used on client (JavaScript) and server (C#) side.</source>
+          <target state="translated">起见 <bpt id="p1">**</bpt>更简单<ept id="p1">**</ept> 如果可能，单个 API <ph id="ph1">`Experiment.IsEnabledAsync`</ph> 可用于执行 (JavaScript) 客户端和服务器 (C#) 端。</target>         
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Make it simpler for developers to test and see features on/off side-by-side.</source>
+          <target state="translated">简化开发人员能够测试并查看开/关-并行的功能。</target>         
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Users should be <bpt id="p1">**</bpt>affinitized<ept id="p1">**</ept>, which means once a user saw a feature X turned on, he/she should always see X unless the browser session info has been explicitly wiped out (e.g. Ctrl + Shift + Delete or InPrivate Session).</source>
+          <target state="translated">用户应该 <bpt id="p1">**</bpt>关联<ept id="p1">**</ept>, ，这一次意味着用户看到的一项功能打开的 X，他/她始终应看到 X，除非浏览器会话信息是否已显式擦除出 （例如 Ctrl + Shift + Delete 或 InPrivate 会话）。</target>         
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Should be <bpt id="p1">**</bpt>fast<ept id="p1">**</ept>, conducting a new test, turning on/off an A/B testing, or updating the split ratio should take effect in <bpt id="p2">**</bpt>less than 30 seconds<ept id="p2">**</ept>.</source>
+          <target state="translated">应为 <bpt id="p1">**</bpt>快速<ept id="p1">**</ept>, 、 实施新的测试、 打开/关闭 A / B 测试，或更新拆分比例应中生效 <bpt id="p2">**</bpt>小于 30 秒<ept id="p2">**</ept>。</target>         
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Naturally <bpt id="p1">**</bpt>integrated<ept id="p1">**</ept> into BI and Insights.</source>
+          <target state="translated">自然 <bpt id="p1">**</bpt>集成<ept id="p1">**</ept> 到 BI 和见解。</target>         
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Internal Flow Diagram:</source>
+          <target state="translated">内部流关系图 ︰</target>         
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Sample Code (ECMAScript)</source>
+          <target state="translated">示例代码 (ECMAScript)</target>         
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Real World Example</source>
+          <target state="translated">真实的示例</target>         
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Please try this now!</source>
+          <target state="translated">请立即试用这 ！</target>         
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Open the F12 console and run the following code:</source>
+          <target state="translated">打开 F12 控制台并运行下面的代码 ︰</target>         
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
